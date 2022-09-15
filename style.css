@@ -16,7 +16,7 @@ body{
 .container {
     height: 80%;
     width: 80%;
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(500, 255, 255, 0.1);
     border-radius: 20px;
     overflow: hidden;
 }
